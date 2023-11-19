@@ -1,0 +1,16 @@
+Testing dataset,Cell type of testing dataset,Cell type of training dataset,total
+human_Lung2064_data,Basal cell,Basal cell,Basal cell
+human_Lung9566_data,T cell,T cell,T cell
+human_Lung6338_data,AT2,AT2 cell,AT2 cell
+human_Lung6338_data,Transformed epithelium,Epithelial cell,Transformed epithelium
+human_Lung6338_data,Transformed epithelium,Epithelial cell (intermediated),Transformed epithelium
+human_Lung6338_data,Transformed epithelium,Stratified epithelial cell,Transformed epithelium
+human_Lung6338_data,Macrophage,Macrophage,Macrophage
+human_Lung6338_data,Macrophage,M2 Macrophage,Macrophage
+human_Lung6338_data,Endothelium,Endothelial cell,Endothelium
+human_Lung6338_data,Endothelium,Endothelial cell (APC),Endothelium
+human_Lung6338_data,Endothelium,Endothelial cell (endothelial to mesenchymal transition),Endothelium
+human_Lung6338_data,Endothelium,Sinusoidal endothelial cell,Endothelium
+human_Lung6338_data,T cell,T cell,T cell
+human_Lung6338_data,Fibroblast,Fetal fibroblast,Fibroblast
+human_Lung6338_data,Fibroblast,Fibroblast,Fibroblast
