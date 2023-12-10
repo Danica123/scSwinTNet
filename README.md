@@ -5,10 +5,10 @@ The annotation of cell types based on single-cell RNA sequencing (scRNA-seq) dat
 # Install
 * Python 3.7.12
 * tensorflow-gpu 2.6.2
-* keras 2.4.3
+* keras 2.6.0
 * numpy 1.19.5
-* pandas 1.1.5
-* scikit-learn 0.24.2
-* scipy 1.4.1
+* pandas 1.3.5
+* scikit-learn 1.0.2
+* scipy 1.7.3
 # Data availability
 The data used in the method are stored in the Releases-Dataset.
